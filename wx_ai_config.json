@@ -1,0 +1,9 @@
+{
+  "api_key": "",
+  "base_url": "https://open.bigmodel.cn/api/paas/v4",
+  "model": "glm-4-flash",
+  "persona": "",
+  "max_chars": 45,
+  "context_count": 4,
+  "timeout": 15
+}
